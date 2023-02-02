@@ -36,10 +36,10 @@ Here are some ideas to get you started:
   <tr>
     <td class="tg-0pky"> <!-- Card -->
       <img height='150' src='https://github-readme-stats.vercel.app/api/top-langs/?username=cassianodescovi&layout=compact'></td>
-    <td rowspan="2" class="tg-0pky"><img align="right" alt="GIF" src="https://github.com/cassianodescovi/cassianodescovi/blob/main/code.gif?raw=true" width="590" height="380"/></td>
+    <td rowspan="2" class="tg-0pky"><img align="right" alt="GIF" src="https://github.com/cassianodescovi/cassianodescovi/blob/main/code.gif?raw=true" width="550" height="330"/></td>
   </tr>
   <tr>
-    <td class="tg-0pky"><img height='150' src='https://github-readme-stats.vercel.app/api?username=cassianodescovi&show_icons=true&layout=compact'></td>
+    <td class="tg-0pky"><img height='250' src='https://github-readme-stats.vercel.app/api?username=cassianodescovi&show_icons=true&layout=compact'></td>
   </tr>
 </tbody>
 </table>
