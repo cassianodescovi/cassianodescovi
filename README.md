@@ -1,6 +1,6 @@
 # Hi there 👋
 
-## Enthusiast of new technologies and passionate about data, seeking knowledge in the area of data engineering, big data analysis and data science to powerup my career and be able to help society to extract, transform and load even more data!
+## Enthusiast of new technologies and passionate about data, seeking knowledge in the area of data engineering, to power up my career and be able to help society to extract, transform and load even more data!
 
 Here are some ideas to get you started:
 
@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 [![Visual Studio Code](https://img.shields.io/badge/VS_Code-282C34?&message=Visual_Studio_Code&logo=Visual+Studio+Code&logoColor=007ACC)](https://code.visualstudio.com)
 
 ### 🔍  Where to find me
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https:acesse.one/PG3pn)](acesse.one/PG3pn)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cassiano-sampaio-descovi-3b45b6a0)](https://www.linkedin.com/in/cassiano-sampaio-descovi-3b45b6a0)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:email@cassianodescovi.com.br)](mailto:email@cassianodescovi.com.br)
 
 <table align='center'>
