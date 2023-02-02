@@ -10,7 +10,6 @@ Here are some ideas to get you started:
 ### 🛠  Tools and technologies to which I have proficiency
 [![Linux](https://img.shields.io/badge/Linux-282C34?&message=Linux&logo=Linux&logoColor=FFFFFF)](https://www.linuxfoundation.org)
 [![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-282C34?&message=Microsoft_Office&logo=Microsoft+Office&logoColor=D83B01)](https://office.com)
-[![Microsoft SQL Server](https://img.shields.io/badge/MS_SQL_Server-282C34?&message=Microsoft_SQL_Server&logo=Microsoft+SQL+Server&logoColor=FE7A16)](https://www.microsoft.com/sql-server)
 [![MySQL](https://img.shields.io/badge/MySQL-282C34?&message=MySQL&logo=MySQL&logoColor=0078D6)](https://mysql.com)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-282C34?&message=PostgreSQL&logo=PostgreSQL&logoColor=3776AB)](https://www.postgresql.org)
 [![Sublime Text](https://img.shields.io/badge/Sublime_Text-282C34?&message=Sublime_Text&logo=Sublime+Text&logoColor=FE7A16)](https://sublimetext.com)
