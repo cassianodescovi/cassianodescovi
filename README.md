@@ -5,7 +5,7 @@
 Here are some ideas to get you started:
 
 - 🌱 I’m currently learning Pyton and Apache Airflow.
-- 🥷🏼 I define myself as: Autodidact, focused, curious, intense and determined.
+- 🥷🏼 I define myself as: Autodidact, focused and curious.
 
 ### 🛠  Tools and technologies to which I have proficiency
 [![Linux](https://img.shields.io/badge/Linux-282C34?&message=Linux&logo=Linux&logoColor=FFFFFF)](https://www.linuxfoundation.org)
