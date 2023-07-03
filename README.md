@@ -4,17 +4,15 @@
 
 Here are some ideas to get you started:
 
-- 🌱 I’m currently learning Pyton and Apache Airflow.
+- 🌱 I’m currently learning JS, Pyton and Apache Airflow.
 - 🥷🏼 I define myself as: Autodidact, focused and curious.
 
 ### 🛠  Tools and technologies to which I have proficiency
 [![Linux](https://img.shields.io/badge/Linux-282C34?&message=Linux&logo=Linux&logoColor=FFFFFF)](https://www.linuxfoundation.org)
-[![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-282C34?&message=Microsoft_Office&logo=Microsoft+Office&logoColor=D83B01)](https://office.com)
 [![MySQL](https://img.shields.io/badge/MySQL-282C34?&message=MySQL&logo=MySQL&logoColor=0078D6)](https://mysql.com)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-282C34?&message=PostgreSQL&logo=PostgreSQL&logoColor=3776AB)](https://www.postgresql.org)
 [![Sublime Text](https://img.shields.io/badge/Sublime_Text-282C34?&message=Sublime_Text&logo=Sublime+Text&logoColor=FE7A16)](https://sublimetext.com)
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-282C34?&message=Ubuntu&logo=Ubuntu&logoColor=FE7A16)](https://ubuntu.com)
-[![Windows](https://img.shields.io/badge/Windows-282C34?&message=Windows&logo=Windows&logoColor=0078D6)](https://www.microsoft.com/windows/)
 
 ### 📖  Tools and technologies in which I am currently improving my knowledge
 [![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-282C34?&message=Apache_Airflow&logo=Apache+Airflow&logoColor=FFFFFF)](https://airflow.apache.org)
